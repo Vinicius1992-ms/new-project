@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+    <cds>
+        <cd id="1">
+            <artist> Michael Jackson </artist>
+
+            <title> Thriller</title>
+            <year> 1986</year>
+
+        </cd>
+
+        <cd id="2">
+            <artist> Jackson 5 </artist>
+
+            <title> ABC</title>
+            <year> 1975</year>
+
+        </cd>
+
+    </cds>
+
+
+</collection>
